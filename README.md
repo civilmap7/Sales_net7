@@ -1,0 +1,3 @@
+# Sales_net7
+## Es una App para comercio electronico, Blazor + Maui
+## Comenzamos...
